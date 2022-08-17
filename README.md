@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Aryan here</h1>
-<h3 align="center">I'm Aryan from India, and I am enthusiastic Web Developer. I really enjoy learning languages and frameworks like React .<h3>
+<h3 align="center">I'm Aryan from India, and I am enthusiastic Full Stack Web Developer. I really enjoy learning languages and frameworks like React .<h3>
 
 <hr>
 ## 🙋‍♂️ About Me
