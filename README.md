@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m collaborating on **TEDXVItPune**
 
 - 📫 How to reach me **aryansjagadale@gmail.com**
 
