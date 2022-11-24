@@ -1,11 +1,11 @@
 <div style="display: flex; flex-direction: column;">
 <a href="https://app.daily.dev/AaryanJagadae"><img src="https://api.daily.dev/devcards/f5471386507d42ff970aacfca4643db1.png?r=43k" width="400" alt="Aaryan's Dev Card"/></a>
 
-    <div>
+    
         <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Aryan here</h1>
 <h3 align="center">I'm Aryan from India, and I am enthusiastic Full Stack Web Developer. I really enjoy learning languages and frameworks like React .<h3>
     
-    </div>    
+        
 
 
 
