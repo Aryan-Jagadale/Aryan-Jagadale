@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <a href="https://app.daily.dev/AaryanJagadae"><img src="https://api.daily.dev/devcards/f5471386507d42ff970aacfca4643db1.png?r=43k" width="400" alt="Aaryan's Dev Card"/></a>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Aryan here</h1>
