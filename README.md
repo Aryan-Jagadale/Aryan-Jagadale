@@ -15,11 +15,12 @@
 <hr>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working as **Free Lancer**
 
 - 👯 I’m collaborating on **TEDxVITPune2022**
 
-- 📫 How to reach me **aryansjagadale@gmail.com**
+- 📫 How to reach me **https://aaryanjagadale.tech/**
+    
 
 <hr>
 ## 🚀 Languages and Tools:
