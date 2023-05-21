@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm Aryan from India, and I am enthusiastic Full Stack Web Developer. I really enjoy learning languages and frameworks like React .<h3>
+<h3 align="center">I'm a full stack developer who loves to build user-centric products that solve real world problems.<h3>
     
         
 
@@ -12,9 +12,9 @@
 <hr>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **Free Lancer**
+- 🔭 I’m currently working as **Freelancer**
 
-- 👯 I’m collaborating on **TEDxVITPune2022**
+- 👯 I’m collaborating on **TEDxVITPune2022** as well as on "TedxVIT2023"
 
 - 📫 How to reach me **https://aaryanjagadale.tech/**
     
