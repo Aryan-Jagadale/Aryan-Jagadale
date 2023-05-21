@@ -1,7 +1,4 @@
 
-
-    
-        <h1 align="center">Welcome to my ReadME.md</h1>
 <h3 align="center">I'm Aryan from India, and I am enthusiastic Full Stack Web Developer. I really enjoy learning languages and frameworks like React .<h3>
     
         
