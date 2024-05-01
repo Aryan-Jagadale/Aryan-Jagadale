@@ -12,11 +12,7 @@
 <hr>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **Freelancer**
-
-- 👯 I’m collaborating on **TEDxVITPune2022** as well as on "TedxVIT2023"
-
-- 📫 How to reach me **https://aaryanjagadale.tech**
+- 📫 Read --> **https://aaryanjagadale.tech**
     
 
 <hr>
