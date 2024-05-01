@@ -12,7 +12,7 @@
 <hr>
 ## 🙋‍♂️ About Me
 
-- 📫 Read --> **https://aaryanjagadale.tech**
+- **https://aaryanjagadale.tech**
     
 
 <hr>
