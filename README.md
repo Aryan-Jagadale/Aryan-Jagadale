@@ -1,5 +1,7 @@
 <p align="center">
 Hi there 👋, Nice to meet you..!!
+    <br/>
+Myself  <span style="font-weight:bold;text-decoration:underline;">Aryan Jagadale</span>
 </p>
     
 - 🏢 Software Engineer at [SolarSquare](https://solarsquare.in/)  
