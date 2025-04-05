@@ -2,6 +2,10 @@
 Hi there 👋, Nice to meet you..!!
 </p>
     
+- 🏢 Software Engineer at [SolarSquare](https://solarsquare.in/)  
+- 🛠️ TypeScript, React, PHP → Now learning Go 🦀
+- 👉 Learning in public at [aaryan-jagadale.netlify.app](https://aaryan-jagadale-portfolio.netlify.app/)
+
 
 <hr>
 
