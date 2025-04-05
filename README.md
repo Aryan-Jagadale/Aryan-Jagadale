@@ -1,5 +1,6 @@
+<p align="center">
 Hi there 👋, Nice to see you..!!
-
+</p>
     
 
 <hr>
