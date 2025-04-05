@@ -1,5 +1,5 @@
 <p align="center">
-Hi there 👋, Nice to see you..!!
+Hi there 👋, Nice to meet you..!!
 </p>
     
 
