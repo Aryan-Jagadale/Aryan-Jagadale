@@ -1,13 +1,5 @@
-Hi there...!! 
-Have a good day... ;)
+Hi there 👋, Nice to see you..!!
 
-</div>
-
-
-<hr>
-## 🙋‍♂️ Be my guest ⬇
-
-- **https://aaryanjagadale.tech**
     
 
 <hr>
