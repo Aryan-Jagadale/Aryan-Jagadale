@@ -1,10 +1,5 @@
-
-<h3 align="center">I'm a full stack developer who loves to build user-centric products that solve real world problems.<h3>
-    
-        
-
-
-
+Hi there...!! 
+Have a good day... ;)
 
 </div>
 
