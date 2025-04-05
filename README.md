@@ -31,24 +31,5 @@ Hi there 👋, Nice to meet you..!!
 <br/>
 
 
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/aaryan-jagadale-0a0a69203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Aaryan30757183"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_aryan.jagadale_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Aryan-Jagadale">
-</a>
-<a href="https://github.com/Aryan-Jagadale?tab=followers"><img src="https://img.shields.io/github/followers/Aryan-Jagadale?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 
